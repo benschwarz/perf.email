@@ -8,7 +8,7 @@
     "build": "NODE_ENV=production webpack --progress --colors --bail --optimize-minimize --optimize-dedupe"
   },
   "dependencies": {
-    "autoprefixer": "^6.3.6",
+    "autoprefixer": "^9.8.6",
     "babel-core": "^6.26.3",
     "babel-eslint": "^6.0.2",
     "babel-loader": "^6.2.4",
