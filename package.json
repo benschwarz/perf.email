@@ -30,7 +30,7 @@
     "request": "^2.72.0",
     "rss": "^1.2.1",
     "style-loader": "^0.13.1",
-    "svg-sprite-loader": "0.0.18",
+    "svg-sprite-loader": "6.0.9",
     "uglify": "^0.1.5",
     "uglify-loader": "^3.0.0",
     "url-loader": "^0.6.2",
